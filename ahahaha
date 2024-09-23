@@ -15,3 +15,5 @@ elseif game.PlaceId == 11177482306 then
 else
     warn("unsupported game, universal coming soon.")
 end
+elseif game.PlaceId == 96886940416142 or game.PlaceId == 16347334090 or game.PlaceId == 16347334090 or game.PlaceId == 16347334090 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/main/hoopnation'))()
